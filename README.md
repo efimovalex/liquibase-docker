@@ -1,4 +1,4 @@
-# liquibase_docker
+# Liquibase docker image
 
 Docker image with Liquibase version 3.8.0
 
